@@ -1,9 +1,9 @@
 import "./App.css";
-import Tasks from "./components/Tasks";
 
 function App() {
   return (
     <>
+      <h1> useContext </h1>
     </>
   );
 }
